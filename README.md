@@ -1,6 +1,5 @@
 # Comeback-Report
-In this project, I aimed to analyze the concept of a "comeback" in football, where a team recovers from a losing position and ends up winning the game. My objective was to investigate whether such an occurrence could be predicted.
-
+In this project, I aimed to analyze the concept of a "comeback" in football, where a team recovers from a losing position and ends up winning the game. My objective was to investigate whether such an occurrence could be predicted. 
 
 
 
